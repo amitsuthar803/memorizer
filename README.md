@@ -33,6 +33,4 @@ Smooth transitions are achieved using custom properties for transition durations
 
 amitsuthar803@gmail.com
 
-You can copy this text and use it as your GitHub README.
-
 This project is licensed under the MIT License.
