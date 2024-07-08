@@ -17,26 +17,22 @@ This repository contains the source code for a modern, futuristic-themed notes a
 
 The CSS uses custom properties (CSS variables) for colors, typography, spacing, and other design elements to maintain consistency and ease of customization.
 
-#### Colors
+### Typography
 
-##### Light Theme
+The app uses the Poppins font family and defines various font sizes, line heights, font weights, and letter spacings for different text elements such as display, headline, title, body, and label texts.
 
-```css
---on-background-light: #1a1a1a;
---background-light: #f0f2f5;
---surface-light: #ffffff;
---surface-container-low-light: #e0e3e7;
---surface-container-highest-light: #cfd4da;
---on-surface-light: #1a1a1a;
---on-surface-variant-light: #5f6368;
---primary-light: #0078d7;
---on-primary-light: #ffffff;
---primary-container-light: #cce6ff;
---on-primary-container-light: #004a8f;
---secondary-container-light: #d4f0ff;
---on-secondary-container-light: #006680;
---outline-light: #b0b0b0;
---outline-variant-light: #d4d4d4;
---inverse-surface-light: #1a1a1a;
---inverse-on-surface-light: #ffffff;
-```
+### Spacing and Radius
+
+The app includes a set of spacing variables for consistent padding and margins, and border-radius variables for rounded corners.
+
+### Transitions
+
+Smooth transitions are achieved using custom properties for transition durations and easing functions.
+
+### License
+
+amitsuthar803@gmail.com
+
+You can copy this text and use it as your GitHub README.
+
+This project is licensed under the MIT License.
